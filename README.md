@@ -93,6 +93,6 @@ Collection of [wagmi](https://github.com/wagmi-dev/wagmi)-related projects and r
 
 ### Videos
 
-- [Introducing RainbowKit 🌈 🧰](https://www.youtube.com/watch?v=5dcjg6c5UG4)
-- [RainbowKit 🌈 🧰 Learn How to Build an NFT Minting Site with wagmi](https://www.youtube.com/watch?v=YnxyVpE6PIE)
+- [Introducing RainbowKit](https://www.youtube.com/watch?v=5dcjg6c5UG4)
+- [RainbowKit Learn How to Build an NFT Minting Site with wagmi](https://www.youtube.com/watch?v=YnxyVpE6PIE)
 - [Sign-in with Ethereum Tutorial w/ React & wagmi](https://www.youtube.com/watch?v=3QgqoHggwhg)
