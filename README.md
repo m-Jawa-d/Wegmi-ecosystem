@@ -27,7 +27,7 @@ Collection of [wagmi](https://github.com/wagmi-dev/wagmi)-related projects and r
 - [Web3Modal](https://web3modal.com) — Your on-ramp to web3 multichain wallets.
 - [use-wagmi](https://github.com/unicape/use-wagmi) — Vue Composition for Ethereum port of wagmi
 
-### Connectors
+### Connectors-
 
 - [Dynamic Connector](https://www.npmjs.com/package/@dynamic-labs/wagmi-connector) — Connector for [Dynamic](https://www.dynamic.xyz)
 - [@gnosis.pm/safe-apps-wagmi](https://github.com/safe-global/safe-apps-sdk/tree/master/packages/safe-apps-wagmi) — Connector for [Gnosis Safe](https://gnosis-safe.io)
