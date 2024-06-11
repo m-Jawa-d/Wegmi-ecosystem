@@ -1,4 +1,4 @@
-# Wegmi-ecosystem
+# Wagmi-ecosystem
 
 Welcome to the Wagmi ecosystem—a vibrant collection of projects and resources centered around Wagmi, a powerful toolkit for building decentralized applications on the Ethereum blockchain.
 
